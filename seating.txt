@@ -1,0 +1,6 @@
+UNIVERSITY EXAM SEATING PLAN
+------------------------------
+Student: Fazeel | Roll: 25k2065 | Seat: 3
+Student: Usman | Roll: 25k2038 | Seat: 1
+Student: Nabeel | Roll: 25k2055 | Seat: 2
+Student: Abdullah | Roll: 25k2035 | Seat: 4

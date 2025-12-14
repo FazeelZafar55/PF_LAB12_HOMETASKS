@@ -1,0 +1,6 @@
+Fitness Tracker Hourly Steps Data
+---------------------------------
+Hour 1: 100 steps
+Hour 2: 80 steps
+Hour 3: 50 steps
+Hour 4: 25 steps

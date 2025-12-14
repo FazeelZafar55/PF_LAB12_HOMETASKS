@@ -1,0 +1,10 @@
+Temperature Summary
+-------------------
+Reading 1: 30.00
+Reading 2: 32.00
+Reading 3: 35.00
+Reading 4: 28.00
+Reading 5: 38.00
+
+Highest: 38.00
+Lowest: 28.00
